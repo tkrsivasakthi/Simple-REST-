@@ -3,5 +3,6 @@ Simple Server with Node and Express JS
 
 
 
-Start The server using node cmd prompt .
+Start The server using node cmd prompt .  
+command: node Student.js
 Server Running at http://localhost:3000/
